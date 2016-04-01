@@ -1,0 +1,15 @@
+# Loan_Calc.yml
+
+welcome: 'Welcome to the loan calculator.'
+enter_name: 'Please enter your name.'
+name_error: 'Oops! Something went wrong. Please enter your name.'
+greeting: 'Hi '
+get_principle: 'How much are you borrowing?'
+principle_error: 'Oops! Something went wrong. Please enter your loan amount.'
+get_duration: 'What is your loan duration in months?'
+duration_error: 'Oops! Please enter your loan duration in months. (Ex. 60)'
+get_interest: 'What is your interest rate (APR)? Ex: 6.0% = 6'
+interest_error: "Oops! Please enter your interest rate. Tip: do not type '%'."
+continue: 'Would you like to calculate another loan?'
+exit: 'Thank you for using the loan calculator '
+result: 'Your resulting payment will be '

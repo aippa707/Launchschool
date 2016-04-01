@@ -1,0 +1,14 @@
+#calculator_messages.yml
+
+  welcome: You have started the Calculator.
+  enter_name: Please enter your name.
+  valid_name: Please enter a valid name.
+  welcome_name: Hello #{name}!
+  number: Please enter a number.
+  valid_number: That wasnt a valid number. Please enter a number.
+  operation: What operation would you like to use?
+  operator: Please enter 1-4 for 1)* 2)/ 3)+ 4)-
+  valid_operator: Please enter a valid selection.
+  answer: Your answer is
+  continue: Would you like to perform another calculation? (Y/N)
+  exit: Thank you for using the Calculator!

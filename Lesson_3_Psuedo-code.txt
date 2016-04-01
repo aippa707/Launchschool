@@ -1,0 +1,27 @@
+# Lesson_3_Psuedo-code
+
+# 1) A method that returns the sum of two integers
+
+Def method(sum)
+int1 = gets
+int2 = gets
+sum = int1 + int2
+print sum
+end
+
+# 2) A method that takes an array of strings and returns a string that is all those concatenated together
+
+Array = str1, str2, str3
+Def concat(array2)
+array2 = array.join(" ")
+end
+print array2
+
+
+# 3) A method that takes an array of integers and returns a new array with every other element
+
+Array = int1, int2, int3, int4
+def odds(array2)
+array2 = array.odd_values
+end
+print array2
